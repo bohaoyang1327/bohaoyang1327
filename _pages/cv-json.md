@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% include cv-template.html %}
+This JSON-driven CV page is not currently maintained.
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+Please use the [main CV page]({{ base_path }}/cv/) or [download the PDF version]({{ base_path }}/files/BohaoYang_CV.pdf).
