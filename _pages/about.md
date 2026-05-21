@@ -9,14 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-I am Bohao (Lexi) Yang, an incoming PhD student in Quantitative Biology and Medicine at Duke-NUS Medical School. I recently completed an M.S. in Statistical Science at Duke University and previously earned a B.S. in Mathematics & Finance from the University of Liverpool.
+I am Bohao (Lexi) Yang, an incoming PhD student in Quantitative Biology and Medicine at Duke-NUS Medical School. I recently completed an M.S. in Statistical Science at Duke University and previously earned a B.S. in Mathematics & Finance from the University of Liverpool. My research has been advised by [Chuan Hong](https://biostat.duke.edu/profile/chuan-hong), Assistant Professor of Biostatistics & Bioinformatics at Duke University and member of the Duke Clinical Research Institute.
 
-My research sits at the intersection of statistical machine learning, medical AI, clinical natural language processing, and large-scale electronic health record analysis. I am particularly interested in building trustworthy and clinically useful models for communication analysis, cohort construction, prognostic modeling, and fairness evaluation in healthcare.
+My research sits at the intersection of statistical machine learning, reinforcement learning, mobile health, medical AI, clinical natural language processing, and large-scale electronic health record analysis. I am particularly interested in building trustworthy and clinically useful models for communication analysis, cohort construction, prognostic modeling, and fairness evaluation in healthcare.
 
 Research Interests
 ======
 
 * Trustworthy medical AI and clinical decision support
+* Reinforcement learning for adaptive and decision-focused health applications
+* Mobile health and digital health interventions
 * EHR phenotyping, cohort identification, and outcome prediction
 * Multimodal analysis of clinician-patient communication
 * Fairness, robustness, and human-in-the-loop evaluation for health AI
