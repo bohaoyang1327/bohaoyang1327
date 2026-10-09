@@ -4,6 +4,8 @@ excerpt: "Developed an internal ambient digital scribing system integrating ASR,
 collection: portfolio
 permalink: /research/ambient-digital-scribing/
 date: 2025-01-01
+timeline_start: "Jan 2025"
+timeline_end: "Apr 2026"
 ---
 
 From January 2025 to April 2026, this project focused on building an end-to-end, privacy-safe ambient digital scribing system for clinical settings. The pipeline integrated voice activity detection, Whisper-based automatic speech recognition, and speaker diarization powered by voice embeddings.

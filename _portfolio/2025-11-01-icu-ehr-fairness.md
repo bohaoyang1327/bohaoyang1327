@@ -4,6 +4,8 @@ excerpt: "Preprocessed multi-site ICU data and studied fairness in mortality ris
 collection: portfolio
 permalink: /research/icu-ehr-fairness/
 date: 2025-11-01
+timeline_start: "Nov 2025"
+timeline_end: "Apr 2026"
 ---
 
 From November 2025 to April 2026, this project studied racial and ethnic bias in ICU mortality prediction with the long-term goal of developing equitable and clinically deployable prognostic models.

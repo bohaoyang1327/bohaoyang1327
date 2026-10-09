@@ -4,6 +4,8 @@ excerpt: "Compared statistical, machine learning, and deep learning approaches f
 collection: portfolio
 permalink: /research/eeg-mental-health/
 date: 2023-06-01
+timeline_start: "Jun 2023"
+timeline_end: "Dec 2023"
 ---
 
 At Stevens Institute of Technology, I investigated EEG-based models for mental health disorder diagnosis with an emphasis on interpretability and diagnostic reliability.

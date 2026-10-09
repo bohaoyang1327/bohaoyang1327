@@ -4,6 +4,8 @@ excerpt: "Analyzed China's carbon market through emissions trajectories, allowan
 collection: portfolio
 permalink: /research/carbon-trading-sustainable-finance/
 date: 2022-06-01
+timeline_start: "Jun 2022"
+timeline_end: "Sep 2022"
 ---
 
 This project examined China's carbon market from both environmental and financial perspectives. I analyzed emissions trajectories, allowance price dynamics, and lagged cross-sector relationships to better understand policy-driven market behavior.
