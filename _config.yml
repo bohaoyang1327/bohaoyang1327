@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Bohao Yang"
 title_separator          : "-"
 name                     : &name "Bohao Yang"
-description              : &description "Academic website of Bohao Yang, incoming PhD student in Quantitative Biology and Medicine at Duke-NUS Medical School."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic website of Bohao Yang, a Ph.D. student in Quantitative Biology and Medicine (Biostatistics) at Duke-NUS Medical School."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bohaoyang1327.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/bohaoyang1327" # the subpath for a project site repository
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Bohao Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming PhD student in Quantitative Biology and Medicine at Duke-NUS Medical School."
-  location         : "Durham, NC / Singapore"
-  employer         : "Duke University and Duke-NUS Medical School"
+  bio              : "Ph.D. student in Quantitative Biology and Medicine (Biostatistics) at Duke-NUS Medical School."
+  location         : "Singapore"
+  employer         : "Duke-NUS Medical School"
   uri              : # URL
   email            : "lexiyangduke@gmail.com" 
 

@@ -11,4 +11,4 @@ redirect_from:
 
 This JSON-driven CV page is not currently maintained.
 
-Please use the [main CV page]({{ base_path }}/cv/) or [download the PDF version]({{ base_path }}/files/BohaoYang_CV.pdf).
+Please use the [main CV page]({{ base_path }}/cv/).

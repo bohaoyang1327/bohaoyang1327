@@ -1,12 +1,16 @@
 ---
-title: "An AI-Driven Framework for Generating High-Fidelity Clinical Dialogues to Evaluate Digital Scribing Systems"
+title: "SIMAX: A Scalable and Interpretable Framework for Multi-Fidelity and Annotated Clinician-Patient Dialogue Simulation"
 collection: publications
 category: manuscripts
-permalink: /publication/clinical-dialogues-digital-scribing/
-excerpt: "Manuscript in preparation on synthetic clinical dialogue generation for evaluating digital scribing systems."
-date: 2026-02-01
-venue: "Manuscript in preparation"
-citation: 'Bai, Z., Yang, B., Biro, J., Chowdhury, A., Sun, K., Pollak, K., Pencina, M., and Hong, C. &quot;An AI-Driven Framework for Generating High-Fidelity Clinical Dialogues to Evaluate Digital Scribing Systems.&quot; <i>Manuscript in preparation</i>.'
+permalink: /publication/simax-clinical-dialogue-simulation/
+redirect_from:
+  - /publication/clinical-dialogues-digital-scribing/
+excerpt: "Under review at npj Digital Medicine. Introduces a scalable and interpretable framework for multi-fidelity, annotated clinician-patient dialogue simulation."
+date: 2026-06-01
+venue: "npj Digital Medicine (under review)"
+citation: 'Bao, Z., Yang, R., Yang, B., Liu, Z., Shu, S., Heerschap, R., Li, L., Yang, D., Bond, E., Wang, H., Economou-Zavlanos, N., Biro, J. M., McDermott, M., Liu, N., Chowdhury, A., Sun, K., Pollak, K., Hammond, E., and Hong, C. &quot;SIMAX: A Scalable and Interpretable Framework for Multi-Fidelity and Annotated Clinician-Patient Dialogue Simulation.&quot; <i>Under review at npj Digital Medicine</i>.'
 ---
 
-This work studies how high-fidelity synthetic clinical dialogues can be generated to benchmark ambient digital scribing systems. The project focuses on realism, evaluation validity, and systematic stress-testing for medical AI documentation tools.
+`SIMAX` is a scalable and interpretable framework for generating multi-fidelity, annotated clinician-patient dialogue simulations. The manuscript is under review at *npj Digital Medicine*.
+
+[View the preprint on arXiv](https://arxiv.org/abs/2606.30491).
