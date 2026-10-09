@@ -76,40 +76,6 @@ Research Experience
 * Trained and benchmarked XGBoost, random forest, and logistic regression models on real-world credit data.
 * Deployed the final XGBoost model (AUC 0.96; precision 0.93) with FastAPI and Docker.
 
-Professional Experience
-======
-
-### ByteDance
-
-*AI Product Manager Intern, China, May 2025 - Aug 2025*
-
-* Diagnosed conversion bottlenecks in drug-related searches using funnel and user-data analysis.
-* Optimized the Xiaohe AI Medical App from a single-agent workflow to an SFT-enhanced multi-agent system.
-* Reduced hallucination and improved retrieval through drug-knowledge RAG and prompt engineering.
-
-### LoopLand
-
-*AI Product Manager Intern, Remote, Dec 2024 - Apr 2025*
-
-* Contributed to product design for an AI music creation platform for business and professional creator users.
-* Helped pre-train a music feature extraction model and design a dual-control music generation framework combining loops and natural language.
-* Conducted user interviews and competitive analysis across global AI music products.
-
-### Bank of China
-
-*Risk Modelling Intern, China, Jun 2023 - Aug 2023*
-
-* Integrated credit records with SQL and analyzed delinquency and guarantee-risk factors.
-* Trained logistic regression and XGBoost models for credit scoring and default prediction.
-* Conducted Monte Carlo stress testing and assessed solvency risk for post-loan management.
-
-### TianFeng Securities
-
-*Data Analyst Intern, China, Mar 2022 - May 2022*
-
-* Conducted financial data analysis and visualization in Python.
-* Supported desk research, due diligence, and analysis of profitability, solvency, and bond-pricing metrics.
-
 Publications
 ======
 
