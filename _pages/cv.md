@@ -44,9 +44,9 @@ Research Experience
 *Duke University, Jan 2025 - May 2026. Advised by Dr. Chuan Hong; collaborated with Drs. Michael Pencina, Kai Sun, and Kathryn Pollak.*
 
 * Developed a LangGraph-based multi-agent framework using retrieval-augmented generation for multi-scale analysis of clinician-patient dialogues.
-* Designed dynamic few-shot prompting and domain-adaptive retrieval, evaluating 70 transcripts (approximately 20 hours of audio) and achieving 93%+ human alignment and 90%+ F1.
+* Designed dynamic few-shot prompting and domain-adaptive retrieval, developing on 54 and evaluating on 120 gold-standard annotated transcripts across rheumatology and OB/GYN, achieving an overall weighted F1 of 95.6%.
 * Generated aligned multimodal text-audio pairs and compared language models, text-to-speech models, and audio feature analysis methods.
-* Contributed to manuscript methods, ablation studies, fairness, robustness, and evaluation; the paper was accepted for publication in *npj Digital Medicine*.
+* Contributed to manuscript methods, ablation studies, fairness, robustness, and evaluation; the paper was published in *npj Digital Medicine* (2026).
 
 ### An Internal Ambient Digital Scribing System
 

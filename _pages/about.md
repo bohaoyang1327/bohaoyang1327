@@ -26,7 +26,7 @@ Research Interests
 Selected Research Projects
 ======
 
-* `MOSAIC`: an agentic AI framework for multi-framework communication coding in clinician-patient dialogues, accepted for publication in *npj Digital Medicine*
+* `MOSAIC`: an agentic AI framework for multi-framework communication coding in clinician-patient dialogues, published in *npj Digital Medicine* (2026)
 * `SAGE`: a structured, SQL-based agent for diagnosis-driven EHR cohort extraction using reusable phenotyping logic
 * Multi-site ICU EHR analysis for equitable mortality prediction across diverse patient populations
 * Privacy-safe ambient digital scribing with automatic speech recognition, speaker diarization, and clinician evaluation
