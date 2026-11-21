@@ -31,11 +31,3 @@ Selected Research Projects
 * `SIMAX`: scalable, interpretable simulation of annotated clinician-patient dialogues (under review)
 * `SAGE`: a structured, SQL-based agent for diagnosis-driven EHR cohort extraction
 * `Mediscribe`: privacy-safe ambient digital scribing with speech recognition, speaker diarization, and clinician evaluation
-
-Quick Links
-======
-
-* [Research]({{ base_path }}/research/)
-* [Publications]({{ base_path }}/publications/)
-* [Teaching]({{ base_path }}/teaching/)
-* [Curriculum Vitae]({{ base_path }}/cv/)
