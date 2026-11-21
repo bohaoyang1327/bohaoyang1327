@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bohao Yang"
+title: "Bohao (Lexi) Yang"
 author_profile: true
 redirect_from:
   - /about/
