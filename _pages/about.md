@@ -39,17 +39,3 @@ Quick Links
 * [Publications]({{ base_path }}/publications/)
 * [Teaching]({{ base_path }}/teaching/)
 * [Curriculum Vitae]({{ base_path }}/cv/)
-
-Education
-======
-
-* Ph.D. in Quantitative Biology and Medicine (Biostatistics), Duke-NUS Medical School, Aug 2026-Present
-* M.S. in Statistical Science, Duke University, Aug 2024-May 2026
-* B.S. in Mathematics & Finance, University of Liverpool, Sep 2020-Jun 2024
-
-Honors
-======
-
-* Sampford Memorial Prize for the best final-year student in Statistics & Operational Research, Jul 2024
-* University Exchange Scholarship (Top 1%), Jul 2023
-* University Academic Excellence Award (Top 1%), Jun 2021 and Jun 2022
