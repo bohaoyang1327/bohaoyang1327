@@ -86,7 +86,7 @@ Research Experience
 * Investigated statistical, machine learning, and deep learning approaches for EEG-based mental health disorder diagnosis.
 * Compared convolutional, recurrent, and graph neural networks for spatial-temporal features and brain connectivity patterns.
 
-Publications
+Publications & Manuscripts
 ======
 
   <ul>{% for post in site.publications reversed %}
