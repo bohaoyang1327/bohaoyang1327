@@ -30,4 +30,4 @@ Selected Research Projects
 * `MOSAIC`: an agentic AI framework for multi-framework communication coding in clinician-patient dialogues, published in *npj Digital Medicine* (2026), now being extended to efficient multilingual coding
 * `SIMAX`: scalable, interpretable simulation of annotated clinician-patient dialogues (under review)
 * `SAGE`: a structured, SQL-based agent for diagnosis-driven EHR cohort extraction
-* `Mediscribe`: privacy-safe ambient digital scribing with speech recognition, speaker diarization, and clinician evaluation
+* `Mediscribe`: privacy-safe, speaker-attributed transcription of clinical consultations, combining two-pass speech recognition, diarization, and LLM-based role assignment
