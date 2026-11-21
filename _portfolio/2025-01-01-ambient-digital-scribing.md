@@ -23,7 +23,7 @@ The second version, developed with Zhiyi (Bill) Liu, rebuilds the pipeline aroun
 
 <figure>
   <a href="{{ '/images/mediscribe-v2-pipeline.svg' | relative_url }}">
-    <img src="{{ '/images/mediscribe-v2-pipeline.svg' | relative_url }}" alt="Mediscribe version 2 pipeline: prepare audio, two-pass transcription with Whisper and Parakeet plus forced alignment and voice activity detection, pyannote diarization, word-speaker fusion, LLM-based role assignment with majority voting, and rendered transcripts for manual review" loading="lazy">
+    <img src="{{ '/images/mediscribe-v2-pipeline.svg' | relative_url }}" style="width: 100%; height: auto;" alt="Mediscribe version 2 pipeline: prepare audio, two-pass transcription with Whisper and Parakeet plus forced alignment and voice activity detection, pyannote diarization, word-speaker fusion, LLM-based role assignment with majority voting, and rendered transcripts for manual review" loading="lazy">
   </a>
   <figcaption>Figure 1. The Mediscribe v2 pipeline, from raw consultation audio to reviewed, speaker-attributed transcripts. Select the figure to view it at full resolution.</figcaption>
 </figure>

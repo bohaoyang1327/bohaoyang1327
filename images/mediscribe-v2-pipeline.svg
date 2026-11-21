@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380 1694" role="img" aria-labelledby="title desc" xmlns:c2pa="http://c2pa.org/manifest">
+<svg xmlns="http://www.w3.org/2000/svg" width="1380" height="1694" viewBox="0 0 1380 1694" role="img" aria-labelledby="title desc" xmlns:c2pa="http://c2pa.org/manifest">
 <title id="title">Mediscribe pipeline</title>
 <desc id="desc">Prepared audio feeds transcription and speaker detection. Word and speaker results are combined, assigned clinical roles through an LLM endpoint, and exported as text and JSON for review.</desc>
 <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6e7781"/></marker></defs>
