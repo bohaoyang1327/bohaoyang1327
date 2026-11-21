@@ -1,4 +1,4 @@
-# Hi, I'm Bohao (Lexi) Yang 👋
+# Hii This is Bohao (Lexi) Yang 👋
 
 Ph.D. student in Quantitative Biology & Medicine (Biostatistics) at **Duke-NUS Medical School**, advised by Prof. Bibhas Chakraborty. Previously M.S. in Statistical Science at **Duke University**, advised by Prof. Chuan Hong.
 
@@ -11,4 +11,3 @@ Ph.D. student in Quantitative Biology & Medicine (Biostatistics) at **Duke-NUS M
 
 🌐 [Website](https://bohaoyang1327.github.io/bohaoyang1327/) · ✉️ bohaoyang@u.nus.edu
 
-<sub>This repository hosts my personal website, built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template.</sub>
