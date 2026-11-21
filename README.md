@@ -1,6 +1,6 @@
-# Hii This is Bohao (Lexi) Yang 👋
+# Hi there
 
-Ph.D. student in Quantitative Biology & Medicine (Biostatistics) at **Duke-NUS Medical School**, advised by Prof. Bibhas Chakraborty. Previously M.S. in Statistical Science at **Duke University**, advised by Prof. Chuan Hong.
+I am Bohao(Lexi) Yang, a Ph.D. student in Quantitative Biology & Medicine (Biostatistics) at **Duke-NUS Medical School**, advised by Prof. Bibhas Chakraborty. Previously M.S. in Statistical Science at **Duke University**, advised by Prof. Chuan Hong.
 
 **Research interests:** reinforcement learning · mHealth & adaptive interventions · multimodal clinical AI · agentic AI · clinical NLP
 
