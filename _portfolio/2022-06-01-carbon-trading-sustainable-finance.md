@@ -2,6 +2,7 @@
 title: "Carbon Trading and Sustainable Finance"
 excerpt: "Analyzed China's carbon market through emissions trajectories, allowance prices, and transition risk."
 collection: portfolio
+published: false
 permalink: /research/carbon-trading-sustainable-finance/
 date: 2022-06-01
 timeline_start: "Jun 2022"

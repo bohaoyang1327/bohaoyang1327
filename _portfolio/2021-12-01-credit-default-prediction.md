@@ -2,6 +2,7 @@
 title: "Machine Learning for Credit Default Prediction"
 excerpt: "Built and deployed a credit-risk prediction pipeline using real-world financial data."
 collection: portfolio
+published: false
 permalink: /research/credit-default-prediction/
 date: 2021-12-01
 timeline_start: "Dec 2021"

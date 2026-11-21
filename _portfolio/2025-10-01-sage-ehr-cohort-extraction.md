@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /research/sage-ehr-cohort-extraction/
 date: 2025-10-01
 timeline_start: "Oct 2025"
-timeline_end: "Present"
+timeline_end: "Dec 2026"
 ---
 
 `SAGE` is a structured agent for identifying clinical cohorts from electronic health records using ICD-9/10 diagnosis codes and longitudinal event tracking. The project emphasizes reusable phenotyping logic and scalable extraction pipelines across multi-source health data.

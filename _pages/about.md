@@ -11,25 +11,26 @@ redirect_from:
 
 I am Bohao (Lexi) Yang, a Ph.D. student in Quantitative Biology and Medicine (Biostatistics) at Duke-NUS Medical School, supervised by [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/research-lab/), Associate Professor at the Centre for Quantitative Medicine. I completed an M.S. in Statistical Science at Duke University and earned a B.S. in Mathematics & Finance from the University of Liverpool. At Duke, my research was advised by [Chuan Hong](https://biostat.duke.edu/profile/chuan-hong), Assistant Professor of Biostatistics & Bioinformatics and a member of the Duke Clinical Research Institute.
 
-My research sits at the intersection of statistical machine learning, reinforcement learning, mobile health, medical AI, clinical natural language processing, and large-scale electronic health record analysis. I am particularly interested in building trustworthy and clinically useful models for communication analysis, cohort construction, prognostic modeling, and fairness evaluation in healthcare.
+My research sits at the intersection of reinforcement learning, mobile health, and clinical AI. I develop RL algorithms and micro-randomized trial designs for adaptive digital health interventions, and I build multimodal and agentic AI systems that make clinical data, from intraoral images to clinician-patient conversations, more useful for care.
 
 Research Interests
 ======
 
-* Trustworthy medical AI and clinical decision support
-* Reinforcement learning for adaptive and decision-focused health applications
-* Mobile health and digital health interventions
-* EHR phenotyping, cohort identification, and outcome prediction
-* Multimodal analysis of clinician-patient communication
-* Fairness, robustness, and human-in-the-loop evaluation for health AI
+* Reinforcement learning and adaptive interventions
+* Mobile health (mHealth) and micro-randomized trials
+* Multimodal clinical AI
+* Agentic AI and health AI
+* Clinical natural language processing
 
 Selected Research Projects
 ======
 
-* `MOSAIC`: an agentic AI framework for multi-framework communication coding in clinician-patient dialogues, published in *npj Digital Medicine* (2026)
-* `SAGE`: a structured, SQL-based agent for diagnosis-driven EHR cohort extraction using reusable phenotyping logic
-* Multi-site ICU EHR analysis for equitable mortality prediction across diverse patient populations
-* Privacy-safe ambient digital scribing with automatic speech recognition, speaker diarization, and clinician evaluation
+* Reinforcement learning and micro-randomized trial designs for mHealth studies, including `COBRA` (wearable-based lifestyle intervention) and `FamNucleus` (postpartum mental health)
+* Multimodal image-clinical deep learning for predicting orthodontic treatment duration
+* `MOSAIC`: an agentic AI framework for multi-framework communication coding in clinician-patient dialogues, published in *npj Digital Medicine* (2026), now being extended to efficient multilingual coding
+* `SIMAX`: scalable, interpretable simulation of annotated clinician-patient dialogues (under review)
+* `SAGE`: a structured, SQL-based agent for diagnosis-driven EHR cohort extraction
+* `Mediscribe`: privacy-safe ambient digital scribing with speech recognition, speaker diarization, and clinician evaluation
 
 Quick Links
 ======

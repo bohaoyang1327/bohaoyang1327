@@ -14,14 +14,37 @@ Education
 
 * **Ph.D. student in Quantitative Biology and Medicine (Biostatistics)**, Duke-NUS Medical School, Aug 2026 - Present
 * **M.S. in Statistical Science**, Duke University, Aug 2024 - May 2026
-  * GPA: 3.74/4.0
   * Relevant coursework: Natural Language Processing, Bayesian Statistics, Machine Learning, Statistical Inference
 * **B.S. in Mathematics & Finance**, University of Liverpool, Sep 2020 - Jun 2024
-  * GPA: 3.94/4.0, First Class
+  * First Class Honours
   * Relevant coursework: Stochastic Modeling, Real Analysis, Statistical Models, Numerical Methods, Operational Research
 
 Research Experience
 ======
+
+### Multimodal Image-Clinical Deep Learning for Orthodontic Treatment Duration
+
+*Duke-NUS Medical School, Oct 2026 - Present. Advised by Dr. Bibhas Chakraborty.*
+
+* Leading a multimodal project that predicts orthodontic treatment duration from intraoral photographs and clinical records.
+* Building image-clinical fusion models, including vision encoders and small vision-language models.
+* Developing survival models that account for patients still in treatment.
+
+### Efficient Multilingual Clinical Communication Coding
+
+*Duke University, Oct 2026 - Present. Advised by Dr. Chuan Hong.*
+
+* Co-first author on an extension of MOSAIC that aims to code clinical communication accurately at lower cost and latency.
+* Building a multilingual synthetic benchmark of clinician-patient dialogues across three established communication codebooks.
+* Developing lightweight decision models and a confidence-based agentic workflow that sends uncertain cases to stronger LLMs.
+
+### Reinforcement Learning & Randomized Trials for Digital Health Interventions
+
+*Duke-NUS Medical School, Sep 2026 - Present. Advised by Dr. Bibhas Chakraborty.*
+
+* Developing RL algorithms and trial designs for two mHealth studies: COBRA (wearable-based lifestyle intervention) and FamNucleus (postpartum mental-health app).
+* Designing micro-randomized trials and adaptive personalization to decide when and how to send nudges.
+* Supported EMPOWER, a just-in-time adaptive intervention for physical activity in diabetes care.
 
 ### Multi-site ICU Electronic Health Record Analysis for Equitable Mortality Prediction
 
@@ -33,7 +56,7 @@ Research Experience
 
 ### SAGE Structured Agent for Diagnosis-Based EHR Cohort Extraction
 
-*Duke University, Oct 2025 - Present. Advised by Drs. Chuan Hong and Tianxi Cai with Harvard-affiliated investigators.*
+*Duke University, Oct 2025 - Dec 2026. Advised by Drs. Chuan Hong and Tianxi Cai with Harvard-affiliated investigators.*
 
 * Contributed to a modular, SQL-based agent for cohort identification using ICD-9/10 diagnosis codes and mentored junior students on implementation.
 * Assisted with diagnosis-date identification, longitudinal incidence tracking, and multi-source EHR cohort extraction pipelines.
@@ -46,14 +69,15 @@ Research Experience
 * Developed a LangGraph-based multi-agent framework using retrieval-augmented generation for multi-scale analysis of clinician-patient dialogues.
 * Designed dynamic few-shot prompting and domain-adaptive retrieval, developing on 54 and evaluating on 120 gold-standard annotated transcripts across rheumatology and OB/GYN, achieving an overall weighted F1 of 95.6%.
 * Generated aligned multimodal text-audio pairs and compared language models, text-to-speech models, and audio feature analysis methods.
-* Contributed to manuscript methods, ablation studies, fairness, robustness, and evaluation; the paper was published in *npj Digital Medicine* (2026).
+* First-authored the paper, published in *npj Digital Medicine* (2026); co-authored SIMAX (under review), contributing evaluation and LLM/TTS model comparisons.
 
-### An Internal Ambient Digital Scribing System
+### Mediscribe: A Privacy-Safe Ambient Digital Scribing System
 
 *Duke University, Jan 2025 - Apr 2026. Advised by Dr. Chuan Hong; collaborated with Drs. Michael Pencina, Kai Sun, and Kathryn Pollak.*
 
-* Developed an end-to-end, privacy-safe ambient scribing tool integrating voice activity detection, Whisper-based automatic speech recognition, and speaker diarization.
-* Generated structured medical notes for clinicians and implemented human-in-the-loop evaluation to improve factual consistency and transcription accuracy.
+* Developed an end-to-end, privacy-safe ambient scribing tool integrating voice activity detection, Whisper-based automatic speech recognition, and voice-embedding-powered speaker diarization.
+* Used Mediscribe to generate weekly structured notes for clinicians, reducing documentation burden.
+* Implemented human-in-the-loop evaluation with clinicians to improve factual consistency and transcription accuracy.
 
 ### Deep Learning for EEG in Mental Health Disorder Diagnostics
 
@@ -61,20 +85,6 @@ Research Experience
 
 * Investigated statistical, machine learning, and deep learning approaches for EEG-based mental health disorder diagnosis.
 * Compared convolutional, recurrent, and graph neural networks for spatial-temporal features and brain connectivity patterns.
-
-### Quantitative Analysis of Carbon Trading and Sustainable Finance
-
-*Xi'an Jiaotong-Liverpool University, Jun 2022 - Sep 2022. Advised by Wen Qian.*
-
-* Analyzed China's carbon market using emissions trajectories, allowance-price dynamics, lagged correlations, and cross-sector co-movements.
-* Modeled structural transition risk using clustering and regression and delivered recommendations for financial institutions.
-
-### Machine Learning Model for Credit Default Prediction
-
-*Imperial College London Winter School, Dec 2021 - Mar 2022. Advised by Dr. Zhen Ye.*
-
-* Trained and benchmarked XGBoost, random forest, and logistic regression models on real-world credit data.
-* Deployed the final XGBoost model (AUC 0.96; precision 0.93) with FastAPI and Docker.
 
 Publications
 ======
@@ -104,6 +114,7 @@ Honors & Awards
 Additional Information
 ======
 
-* Technical Skills: Python, PyTorch, R, SQL, Rust, MATLAB, Maple, Docker, Git, AWS
+* Technical Skills: Python (PyTorch), R, SQL, Rust, MATLAB, Maple, Docker, Git, AWS, HPC (SLURM)
+* Methods: Survival analysis, causal inference, micro-randomized trials, reinforcement learning (bandits), LLM agents (LangGraph, RAG), LoRA fine-tuning
 * Languages: English (Proficient), Mandarin (Native), Spanish (Conversational)
 * Interests: Climbing, Badminton, Guitar, Reading
